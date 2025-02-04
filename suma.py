@@ -1,4 +1,10 @@
 def suma(a, b):
+    """
+    suma dos numeros
+    :param a:
+    :param b:
+    :return:
+    """
     return a+b
 
 
